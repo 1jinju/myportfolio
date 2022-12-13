@@ -5,7 +5,7 @@ image: assets/img/portfolio/goldprice.png
 alt: Keep Exploring
 
 caption:
-  title: 앱 사용성 데이터를 통한 대출신청 예측분석
+  title: 환율을 통한 금 가격 예측
   subtitle: Data Analysis
   thumbnail: assets/img/portfolio/goldprice.png
 ---
