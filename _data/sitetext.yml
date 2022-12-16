@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
         alt:
         # you can enforce the alignment
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   team:
     title: "Introduce"
